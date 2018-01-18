@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello Guys!
+
+Jelouuuu here! I am 18 years of age.
